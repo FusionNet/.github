@@ -16,6 +16,6 @@ Fusion Network is a platform where students and game enthusiasts can come togeth
 
 ---
 
-We're excited to have you as part of the Fusion Network School! If you have any questions or need assistance, please feel free to reach out to us or the community members through our communication channels. Happy coding and gaming! 🎮🚀
+We're excited to have you as part of the Fusion Network! If you have any questions or need assistance, please feel free to reach out to us or the community members through our communication channels. Happy coding and gaming! 🎮🚀
 
 Join now: https://discord.gg/bjrabEtngM
