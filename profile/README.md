@@ -9,7 +9,6 @@ Fusion Network is a platform where students and game enthusiasts can come togeth
 
 ## Features
 
-- **Sample Projects:** Access to a collection of sample projects showcasing different mechanics and features.
 - **Documentation:** In-depth explanations of core concepts, scripting, and best practices for game development.
 - **Community:** Join the Fusion Network community to connect with fellow developers, ask questions, and share your creations.
 
