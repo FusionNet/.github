@@ -1,10 +1,10 @@
-# Fusion Network School Gaming
+# Fusion Network 
 
-Welcome to Fusion Network School Gaming! This repository is dedicated to providing resources, documentation, and code samples for creating and developing gaming projects within the Fusion Network School community.
+Welcome to Fusion Network ! This github is dedicated to providing resources, documentation, and code samples for creating and developing gaming projects within the Fusion Network.
 
 
 
-Fusion Network School Gaming is a platform where students and game enthusiasts can come together to learn, collaborate, and create amazing gaming projects. Whether you're a beginner or an experienced developer, this repository offers a range of materials to help you dive into the world of game development.
+Fusion Network is a platform where students and game enthusiasts can come together to learn, collaborate, and create amazing gaming projects. Whether you're a beginner or an experienced developer, this repository offers a range of materials to help you dive into the world of game development.
 
 
 ## Features
@@ -18,4 +18,6 @@ Fusion Network School Gaming is a platform where students and game enthusiasts c
 
 ---
 
-We're excited to have you as part of the Fusion Network School Gaming community! If you have any questions or need assistance, please feel free to reach out to us or the community members through our communication channels. Happy coding and gaming! 🎮🚀
+We're excited to have you as part of the Fusion Network School! If you have any questions or need assistance, please feel free to reach out to us or the community members through our communication channels. Happy coding and gaming! 🎮🚀
+
+Join now: https://discord.gg/bjrabEtngM
